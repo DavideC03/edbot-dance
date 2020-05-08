@@ -1,4 +1,8 @@
 # edbot_dance
+[![GitHub issues](https://img.shields.io/github/issues/DavideC03/edbot_dance)](https://github.com/DavideC03/edbot_dance/issues)
+[![GitHub forks](https://img.shields.io/github/forks/DavideC03/edbot_dance)](https://github.com/DavideC03/edbot_dance/network)
+[![GitHub stars](https://img.shields.io/github/stars/DavideC03/edbot_dance)](https://github.com/DavideC03/edbot_dance/stargazers)
+[![GitHub license](https://img.shields.io/github/license/DavideC03/edbot_dance)](https://github.com/DavideC03/edbot_dance/blob/master/LICENSE)
 
 By Castellani Davide & Foroncelli Claudio
 ---
