@@ -1,4 +1,5 @@
 # edbot_dance
+![GitHub All Releases](https://img.shields.io/github/downloads/DavideC03/edbot_dance/total)
 
 By Castellani Davide & Foroncelli Claudio
 ---
